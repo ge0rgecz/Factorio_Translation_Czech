@@ -1,0 +1,41 @@
+
+[
+  {
+    "title": "Přesunout předmět",
+    "image": "stack-transfer.png",
+    "text": "Stisknutím \"__CONTROL__stack-transfer__\" se přesune celý štos předmětů. Navíc je tento přesun dostatečně chytrý aby věděl, kam předměty přesunout. Například __ITEM__iron-axe-4__ z inventáře přesune do aktivního nářadí." },
+  {
+    "title": "Přesunout předměty daného typu",
+    "image": "inventory-transfer.png",
+    "text": "Stisknutím \"__CONTROL__inventory-transfer__\" se přesunou všechny štosy předmětů daného typu. To může být použito například na přesunutí všech pásů z __ENTITY__wooden-chest-2__ do inventáře hráče."
+  },
+  {
+    "title": "Rychlý přesun z/do entity",
+    "image": "fast-entity-transfer.png",
+    "text": "Stisknutím \"__CONTROL__fast-entity-transfer__\" se provede přesun z/do entity, která je vybraná, aniž by bylo potřeba otevřít její gui. Pokud má hráč něco v ruce, pak se přesun provádí do entity, v opačném případě z entity. Tento mechanizmus je velmi užitečný především v rané fázi hry, kdy je potřeba ručně obhospodařovat __ENTITY__stone-furnace-4m__, __ENTITY__burner-mining-drill-4m__, apod."
+  },
+  {
+    "title": "Přístup k opasku",
+    "image": "quickbar.png",
+    "text": "Každé pole opasku má zkratku, pomocí které lze přesunout do kurzoru. Když už máš v kurzoru něco jiného, je to vráceno tam, odkud to bylo vybráno."
+  },
+  {
+    "title": "Vrátit věc do inventáře",
+    "text": "Stisknutím \"__CONTROL__clean-cursor__\" lze vrátit věc v kurzoru zpět do inventáře/opasku."
+  },
+  {
+    "title": "Pomocné info",
+    "image": "show-info.png",
+    "text": "Stisknutím \"__CONTROL__show-info__\" lze zobrazit pomocné info k předmětům. (Opětovným stisknutím se zase vypne)"
+  },
+  {
+    "title": "Stavění za běhu",
+    "image": "building-while-running.png",
+    "text": "Nejrychlejší způsob, jak postavit hodně věcí v řadě, jako pásy, __ENTITY__pipe-4m__ nebo překladače je držet \"__CONTROL__build__\" na místě, kde chci stavět a běžet požadovaným směrem."
+  },
+  {
+    "title": "Filtry",
+    "image": "filter.png",
+    "text": "Stisknutím \"__CONTROL__set-filter__\" na položce v opasku ti umožní vybrat pro jaký předmět je tato položka rezervována. Nepůjde sem dát nic jiného, a sebrané nebo vyrobené předměty tohoto typu se budou vždy přednostně přesouvat sem. Stisknutím \"__CONTROL__clear-filter__\" lze filtr zase zrušit."
+  }
+]
