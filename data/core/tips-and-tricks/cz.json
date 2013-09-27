@@ -1,9 +1,30 @@
 
 [
   {
+    "title": "Ostatní produkty jež lze vyrobit v peci",
+    "image": "other-furnace-usage.png",
+    "text": "V peci lde kromě zpracování rud vyrobit kamené cihly a ocel. Ocel je však nejprve nutno vynalézt."
+  },
+  {
+    "title": "Používání dvou stran pásu",
+    "image": "two-sides-of-belts.png",
+    "text": "Levá a pravá strana pásu jde použít nezávisle pro různé suroviny. Překladač dává věci na vzdálenější stranu pásu."
+  },
+  {
+    "title": "Přestavování",
+    "image": "rebuilding.png",
+    "text": "Kamenná pec lze na tomto příkladu přestavit ocelovou pecí aniž by bylo potřeba původní pec nejdříve vytěžit. Podobně to funguje s montovnou, tranportními pásy, překladači, truhlami a podobně. Přestavování může být použito i k rychlé změně směru pásů."
+  },
+  {
+    "title": "Electric network info",
+    "image": "electric-network-info.png",
+    "text": "Stisknutí \"__CONTROL__open-gui__\" na elektricém sloupu otevře statistiky elektrické spotřeby sítě, ke které je sloup připojen."
+  },
+  {
     "title": "Přesunout předmět",
     "image": "stack-transfer.png",
-    "text": "Stisknutím \"__CONTROL__stack-transfer__\" se přesune celý štos předmětů. Navíc je tento přesun dostatečně chytrý aby věděl, kam předměty přesunout. Například __ITEM__iron-axe-4__ z inventáře přesune do aktivního nářadí." },
+    "text": "Stisknutím \"__CONTROL__stack-transfer__\" se přesune celý štos předmětů. Navíc je tento přesun dostatečně chytrý aby věděl, kam předměty přesunout. Například __ITEM__iron-axe-4__ z inventáře přesune do aktivního nářadí."
+  },
   {
     "title": "Přesunout předměty daného typu",
     "image": "inventory-transfer.png",
@@ -34,8 +55,23 @@
     "text": "Nejrychlejší způsob, jak postavit hodně věcí v řadě, jako pásy, __ENTITY__pipe-4m__ nebo překladače je držet \"__CONTROL__build__\" na místě, kde chci stavět a běžet požadovaným směrem."
   },
   {
+    "title": "Rychlé stavění elektrické sítě",
+    "image": "building-electric-lines.png",
+    "text": "Způsob jak rychle stavět elektrickou síť je držet stavění při pohybu. Každý další sloup se postaví automaticky a nejvzdálenější možné pozici."
+  },
+  {
     "title": "Filtry",
     "image": "filter.png",
     "text": "Stisknutím \"__CONTROL__set-filter__\" na položce v opasku ti umožní vybrat pro jaký předmět je tato položka rezervována. Nepůjde sem dát nic jiného, a sebrané nebo vyrobené předměty tohoto typu se budou vždy přednostně přesouvat sem. Stisknutím \"__CONTROL__clear-filter__\" lze filtr zase zrušit."
+  },
+  {
+    "title": "Předměty s použitím z opasku",
+    "image": "usable-items.png",
+    "text": "Použitelné předměty jsou aktivovány stisknutím zkratky opasku na odpovídajícím slotu. Pro kapsle a granáty je cílové místo určeno kurzorem myši v době stisknutí."
+  },
+  {
+    "title": "Kopírování nastavení",
+    "image": "copy-build.png",
+    "text": "Stavění pomocí \"__CONTROL__alternative-build__\" zkopíruje vnitřní nastavení stroje od posledního postaveného toho samého typu."
   }
 ]
