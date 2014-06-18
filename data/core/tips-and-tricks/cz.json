@@ -3,7 +3,7 @@
   {
     "title": "Ostatní produkty jež lze vyrobit v peci",
     "image": "other-furnace-usage.png",
-    "text": "V peci lde kromě zpracování rud vyrobit kamené cihly a ocel. Ocel je však nejprve nutno vynalézt."
+    "text": "V peci lze kromě zpracování rud vyrobit kamené cihly a ocel. Ocel je však nejprve nutno vynalézt."
   },
   {
     "title": "Používání dvou stran pásu",
@@ -16,7 +16,7 @@
     "text": "Kamenná pec lze na tomto příkladu přestavit ocelovou pecí aniž by bylo potřeba původní pec nejdříve vytěžit. Podobně to funguje s montovnou, tranportními pásy, překladači, truhlami a podobně. Přestavování může být použito i k rychlé změně směru pásů."
   },
   {
-    "title": "Electric network info",
+    "title": "Informace o elektrické síti",
     "image": "electric-network-info.png",
     "text": "Stisknutí \"__CONTROL__open-gui__\" na elektricém sloupu otevře statistiky elektrické spotřeby sítě, ke které je sloup připojen."
   },
