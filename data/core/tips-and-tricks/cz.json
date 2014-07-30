@@ -1,14 +1,14 @@
 
 [
   {
-    "title": "Ostatní produkty jež lze vyrobit v peci",
+    "title": "Ostatní produkty které lze vyrobit v peci",
     "image": "other-furnace-usage.png",
-    "text": "V peci lze kromě zpracování rud vyrobit kamené cihly a ocel. Ocel je však nejprve nutno vynalézt."
+    "text": "V peci lze kromě zpracování rud vyrobit kamené cihly a ocel. Zpracování oceli je však nejprve nutno vynalézt."
   },
   {
     "title": "Používání dvou stran pásu",
     "image": "two-sides-of-belts.png",
-    "text": "Levá a pravá strana pásu jde použít nezávisle pro různé suroviny. Překladač dává věci na vzdálenější stranu pásu."
+    "text": "Levá a pravá strana pásu jde použít nezávisle pro různé suroviny. Překladač pokládá věci na vzdálenější stranu pásu."
   },
   {
     "title": "Přestavování",
@@ -21,7 +21,7 @@
     "text": "Stisknutí \"__CONTROL__open-gui__\" na elektricém sloupu otevře statistiky elektrické spotřeby sítě, ke které je sloup připojen."
   },
   {
-    "title": "Přesunout předmět",
+    "title": "Přesunout štos předmětů",
     "image": "stack-transfer.png",
     "text": "Stisknutím \"__CONTROL__stack-transfer__\" se přesune celý štos předmětů. Navíc je tento přesun dostatečně chytrý aby věděl, kam předměty přesunout. Například __ITEM__iron-axe-4__ z inventáře přesune do aktivního nářadí."
   },
@@ -38,16 +38,17 @@
   {
     "title": "Přístup k opasku",
     "image": "quickbar.png",
-    "text": "Každé pole opasku má zkratku, pomocí které lze přesunout do kurzoru. Když už máš v kurzoru něco jiného, je to vráceno tam, odkud to bylo vybráno."
+    "text": "Každé pole opasku má zkratku, pomocí které lze jeho obsah přesunout do kurzoru. Když už máš v kurzoru něco jiného, je to vráceno tam, odkud to bylo vybráno."
   },
   {
     "title": "Vrátit věc do inventáře",
+    "image": "clean-cursor.png",
     "text": "Stisknutím \"__CONTROL__clean-cursor__\" lze vrátit věc v kurzoru zpět do inventáře/opasku."
   },
   {
-    "title": "Pomocné info",
+    "title": "Dodatečné informace",
     "image": "show-info.png",
-    "text": "Stisknutím \"__CONTROL__show-info__\" lze zobrazit pomocné info k předmětům. (Opětovným stisknutím se zase vypne)"
+    "text": "Stisknutím \"__CONTROL__show-info__\" lze zobrazit a skrýt dodatečné informace k předmětům."
   },
   {
     "title": "Stavění za běhu",
@@ -57,7 +58,7 @@
   {
     "title": "Rychlé stavění elektrické sítě",
     "image": "building-electric-lines.png",
-    "text": "Způsob jak rychle stavět elektrickou síť je držet stavění při pohybu. Každý další sloup se postaví automaticky a nejvzdálenější možné pozici."
+    "text": "Způsob jak rychle stavět elektrickou síť je držet tlačítko stavění při běhu. Každý další sloup se postaví automaticky v nejvzdálenější možné pozici."
   },
   {
     "title": "Filtry",
@@ -67,11 +68,6 @@
   {
     "title": "Předměty s použitím z opasku",
     "image": "usable-items.png",
-    "text": "Použitelné předměty jsou aktivovány stisknutím zkratky opasku na odpovídajícím slotu. Pro kapsle a granáty je cílové místo určeno kurzorem myši v době stisknutí."
-  },
-  {
-    "title": "Kopírování nastavení",
-    "image": "copy-build.png",
-    "text": "Stavění pomocí \"__CONTROL__alternative-build__\" zkopíruje vnitřní nastavení stroje od posledního postaveného toho samého typu."
+    "text": "Použitelné předměty jsou aktivovány stisknutím zkratky opasku na odpovídajícím políčku. Pro kapsle a granáty je cílové místo určeno kurzorem myši v době stisknutí."
   }
 ]
